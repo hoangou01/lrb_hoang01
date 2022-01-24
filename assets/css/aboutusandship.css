@@ -1,0 +1,96 @@
+.banner-blog-header img{
+    width: 100%;
+    height: 285;
+    
+}
+.pageaboutus{
+    margin-top: 0;
+    border-top: 1px solid #ccc;
+}
+.section-pageaboutus{
+    margin-top: 15px;
+}
+.breadcrumb-list-aboutusandship{
+    margin-top: 10px;
+    padding-left: 3px;
+}
+.breadcrumb-item-icon-AS{
+    margin-left: 10px;
+    color: rgb(158, 157, 157);
+}
+.group-menu{
+    border: 1px solid #ccc;
+    margin-left: -10px;
+    padding: 10px 20px;
+}
+.group-menu-list{
+    
+    padding: 0;
+}
+.group-menu-tittle h2{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #000;
+}
+.group-menu-items{
+    list-style: none;
+    border-bottom: 1px dashed #ccc;
+    line-height: 48px;
+}
+.group-menu-items:hover a{
+    color: #009ee4;
+    text-decoration: underline #009ee4;
+}
+.group-menu-items:last-child{
+    border: none;
+}
+.group-menu-items a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: #000;
+}
+.heading-page h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.whychoose{
+    margin-bottom: 60px;
+}
+.whychoose-content h2{
+    font-size: 2.8rem;
+    font-weight: 500;
+    line-height: 36px;
+    
+}
+.whychoose-img img{
+    width: 100%;
+}
+.whychoose-content p{
+    font-size: 1.35rem;
+    line-height: 24px;
+}
+table tbody tr td{
+    padding: 10px 20px;
+}
+table{
+    margin-top: 10px;
+}
+/************* collection ******************/
+/*****************************************************/
+.collection img{
+    height: auto;
+    width: 100%;
+}
+.collection h1{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+.collection-products{
+    margin-left: -10px;
+}
+/***************************************************/
